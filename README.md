@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CorkITSupport
+- 👀 I’m interested in Troubleshooting/Administration
+- 🌱 I’m currently learning Linux Administration
+- 💞️ I’m looking to collaborate on Linux Technologies
